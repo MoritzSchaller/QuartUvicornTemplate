@@ -1,4 +1,4 @@
-# Quart Uvicorn Webapp Template
+# Quart Uvicorn Web App Template
 
 This is a template to quickly get a quart web app running. 
 
@@ -12,7 +12,7 @@ This is a template to quickly get a quart web app running.
 
 ## Development Server
 
-    This template comes with a development server that will automatically reload when files are changed.
+This template comes with a development server that will automatically reload when files are changed.
 
     python dev_server.py
 
