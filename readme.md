@@ -19,5 +19,5 @@ This template comes with a development server that will automatically reload whe
 ## Deployment With Docker
 
     docker build -t quart-hello-world .
-    docker run quart-hello-world
+    docker run -d -p 80:80 quart-hello-world
 
